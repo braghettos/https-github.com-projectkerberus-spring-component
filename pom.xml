@@ -208,6 +208,7 @@
             <plugin>
                 <artifactId>maven-javadoc-plugin</artifactId>
                 <configuration>
+                    <sourcepath>src/main/java</sourcepath>
                     <show>private</show>
                 </configuration>
                 <executions>
