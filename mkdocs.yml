@@ -1,0 +1,8 @@
+site_name: "spring-component"
+site_description: "spring-component"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

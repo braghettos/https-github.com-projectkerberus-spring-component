@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "spring-component"
+  description: "spring-component"
+  annotations:
+    github.com/project-slug: braghettos/https://github.com/projectkerberus/spring-component
+    backstage.io/techdocs-ref: url:github.com/braghettos/https://github.com/projectkerberus/spring-component
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "braghettos"
